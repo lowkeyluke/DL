@@ -9,3 +9,5 @@ To put on record some fundamental DL algorithms/methods/techniques I've learned 
   - Ensemble models/methods
   - EDA: self-defined classes/labels, self-engineered features, feature visualization, hyperparameter tuning methods, etc.
   - "Live" training & testing simulation
+
+(to be updated)
