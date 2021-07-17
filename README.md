@@ -1,5 +1,5 @@
 # DL
-To put on record some fundamental DL algorithms/methods/techniques I've learned and implemented
+To put on record some fundamental Deep Learning methods I've learned & implemented
 
 - DCGAN, SAGAN
   - spectral norm, self-attention, wasserstein loss, visualization of attention maps
